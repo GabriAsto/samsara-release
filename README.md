@@ -1,6 +1,6 @@
 ## `samsara`-release
 
-Data realise of:`` `samsara`:_A Continuous-Time Markov Chain Monte Carlo Sampler for Trans-Dimensional Bayesian Analysis_''
+Data realise of the paper `samsara`: _A Continuous-Time Markov Chain Monte Carlo Sampler for Trans-Dimensional Bayesian Analysis_
 
 G. Astorino, L. V. Dall'Armi, R. Buscicchio, J. Pomper, A. Ricciardone, W. Del Pozzo. _citation_
 
@@ -10,7 +10,7 @@ You are free to use this dataset in your reasearch. If you use it, we kindly ask
 
 
 ## Data
-The minimal data used to build the figures are provided within the repository in the `./data/` subfolder. We further provide Jupyter Notebooks to reproduce the figures.
+The minimal data used to build the figures in the test cases of the paper above are provided within the repository in the `./data/` subfolder. We further provide Jupyter Notebooks to reproduce the figures.
 
 
 ## Contents
