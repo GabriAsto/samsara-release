@@ -8,8 +8,6 @@ G. Astorino, L. V. Dall'Armi, R. Buscicchio, J. Pomper, A. Ricciardone, W. Del P
 
 You are free to use this dataset in your reasearch. If you use it, we kindly ask you to cite the paper above.
 
-If you want to cite specifically the data release, its DOI is: [https://doi.org/10.5281/zenodo.17665823](https://doi.org/10.5281/zenodo.17665823)
-
 ## Git LFS
 Some of the data files are tracked with Git LFS, being large. 
 Please make sure you have Git LFS installed. To obtain them, clone the repository with:
