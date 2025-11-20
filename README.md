@@ -34,11 +34,11 @@ We further provide Jupyter Notebooks to reproduce the figures.
 
 In the subfolder `./notebooks/`, you can find all the notebooks used for the figures. In particular:
 - `./notebooks/Analytic.ipynb/` for the figure of the analytic test case on the paper above;
-- `./notebooks/SineWavesLorentzians.ipynb/` for the figure of the mullti-species test case with overlapping sinusoidal and lorentzians signals on the paper above;
+- `./notebooks/SineWavesLorentzians.ipynb/` for the figure of the multi-species test case with overlapping sine waves and lorentzians signals on the paper above;
 - `./notebooks/GMM.ipynb/` for the figure of the GMM test case on the paper above;
 - `./notebooks/convergence.ipynb/` for the figure of the PSRF test case on the paper above;
 
-In the subfolder `./plots/` is again structured as `./data/`, without the division from zeronoise and noisy runs in the sine waves overlapped to Lorentzians test case.
+The subfolder `./plots/` is again structured as `./data/`, without the division from zeronoise and noisy runs in the sine waves overlapped to Lorentzians test case. The figures are named as they appear on the paper above.
 
 ## Contributions
 
