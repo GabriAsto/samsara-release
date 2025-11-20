@@ -2,7 +2,7 @@
 
 Data realise of the paper `samsara`: _A Continuous-Time Markov Chain Monte Carlo Sampler for Trans-Dimensional Bayesian Analysis_
 
-G. Astorino, L. V. Dall'Armi, R. Buscicchio, J. Pomper, A. Ricciardone, W. Del Pozzo. [arXiv:2511.07385v1](https://doi.org/10.48550/arXiv.2511.07385).
+G. Astorino, L. V. Dall'Armi, R. Buscicchio, J. Pomper, A. Ricciardone, W. Del Pozzo. [arXiv:XXX.YYY](https://doi.org/10.48550/arXiv.2511.07385).
 
 ## Credits
 
