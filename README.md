@@ -6,7 +6,9 @@ G. Astorino, L. V. Dall'Armi, R. Buscicchio, J. Pomper, A. Ricciardone, W. Del P
 
 ## Credits
 
-You are free to use this dataset in your reasearch. If you use it, we kindly ask you to cite the paper above. If you want to cite specifically the data release, its DOI is: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17665822.svg)](https://doi.org/10.5281/zenodo.17665822)
+You are free to use this dataset in your reasearch. If you use it, we kindly ask you to cite the paper above. 
+If you want to cite specifically the data release, its DOI is: 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17665822.svg)](https://doi.org/10.5281/zenodo.17665822)
 
 ## Git LFS
 Some of the data files are tracked with Git LFS, being large. 
