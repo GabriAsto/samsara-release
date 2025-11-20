@@ -2,7 +2,7 @@
 
 Data realise of the paper `samsara`: _A Continuous-Time Markov Chain Monte Carlo Sampler for Trans-Dimensional Bayesian Analysis_
 
-G. Astorino, L. V. Dall'Armi, R. Buscicchio, J. Pomper, A. Ricciardone, W. Del Pozzo. _citation_
+G. Astorino, L. V. Dall'Armi, R. Buscicchio, J. Pomper, A. Ricciardone, W. Del Pozzo [arXiv:2511.07385v1](arXiv:2511.07385v1).
 
 ## Credits
 
@@ -10,12 +10,18 @@ You are free to use this dataset in your reasearch. If you use it, we kindly ask
 
 
 ## Data
-The minimal data used to build the figures in the test cases of the paper above are provided within the repository in the `./data/` subfolder. We further provide Jupyter Notebooks to reproduce the figures.
+The minimal data used to build the figures in the test cases of the paper above are provided within the repository in the `./data/` subfolder. 
+The `./data/` subfolder is further divided in subfolders: `./data/analytic/`, `./data/sinewaves_lorentzians/`, `./data/GMM/`, `./data/convergence/`, each one explicative of the test case.
+In addition, `./data/sinewaves_lorentzians/` contains `./data/sinewaves_lorentzians/zeronoise/` and `./data/sinewaves_lorentzians/noisy/` for differentiating the data of the zeronoise run and the noisy run.
+We further provide Jupyter Notebooks to reproduce the figures.
 
 
 ## Contents
 
 In the subfolder `./notebooks/`, you can find all the notebooks used for the figures. In particular:
 - `./notebooks/Analytic.ipynb/` for the figure of the analytic test case on the paper above;
-- `./notebooks/SinusoidsAndBumps.ipynb/` for the figure of the mullti-species test case with overlapping sinusoidal and lorentzians signals on the paper above;
+- `./notebooks/SineWavesLorentzians.ipynb/` for the figure of the mullti-species test case with overlapping sinusoidal and lorentzians signals on the paper above;
 - `./notebooks/GMM.ipynb/` for the figure of the GMM test case on the paper above;
+- `./notebooks/convergence.ipynb/` for the figure of the PSRF test case on the paper above;
+
+In the subfolder `./plots/` is again structured as `./data/`, without the division from zeronoise and noisy runs in the sine waves overlapped to Lorentzians test case.
