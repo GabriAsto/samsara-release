@@ -12,7 +12,7 @@ You are free to use this dataset in your reasearch. If you use it, we kindly ask
 Some of the data files are tracked with Git LFS, being large. 
 Please make sure you have Git LFS installed. To obtain them, clone the repository with:
 <pre> git lfs install 
-git clone <repo-url> </pre>
+ git clone <repo-url> </pre>
 
 ## Data
 The minimal data used to build the figures in the test cases of the paper above are provided within the repository in the `./data/` subfolder. 
