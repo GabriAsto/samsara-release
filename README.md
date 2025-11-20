@@ -13,7 +13,8 @@ Some of the data files are tracked with Git LFS, being large.
 Please make sure you have Git LFS installed. To obtain them, clone the repository with:
 ```bash
 git lfs install
-git clone <repo-url>```
+git clone <repo-url>
+```
 
 ## Data
 The minimal data used to build the figures in the test cases of the paper above are provided within the repository in the `./data/` subfolder. 
